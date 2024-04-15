@@ -5,6 +5,8 @@ public class Objeto {
         this.peso = peso;
     }
 
+
+    //Getters and Setters
     public int getPeso() {
         return peso;
     }

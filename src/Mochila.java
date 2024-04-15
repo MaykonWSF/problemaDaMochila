@@ -6,6 +6,8 @@ public class Mochila {
         this.capacidade = capacidade;
     }
 
+
+    //Getters and Setters
     public int getCapacidade() {
         return capacidade;
     }
